@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+}
+
+.idCard {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.idCard p {
+    margin: 5px
+}
